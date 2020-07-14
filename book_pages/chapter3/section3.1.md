@@ -1,4 +1,4 @@
-# Section 3.1: jQuery each function
+## Section 3.1: jQuery each function
 
 **HTML**:
 ```html
