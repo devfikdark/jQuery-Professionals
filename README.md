@@ -28,3 +28,12 @@
     - [Section 4.2: Get the attribute value of a HTML element](book_pages/chapter4/section4.2.md)
     - [Section 4.3: Setting value of HTML attribute](book_pages/chapter4/section4.3.md)
     - [Section 4.4: Removing attribute](book_pages/chapter4/section4.4.md)
+
+* Chapter 5: document-ready event
+
+    - [Section 5.1: What is document-ready and how should I use it?](book_pages/chapter5/section5.1.md)
+    - [Section 5.2: jQuery 2.2.3 and earlier](book_pages/chapter5/section5.2.md)
+    - [Section 5.3: jQuery 3.0](book_pages/chapter5/section5.3.md)
+    - [Section 5.4: Attaching events and manipulating the DOM inside ready()](book_pages/chapter5/section5.4.md)
+    - [Section 5.5: Dierence between $(document).ready() and $(window).load()](book_pages/chapter5/section5.5.md)
+    - [Section 5.6: Dierence between jQuery(fn) and executingyour code before </body>](book_pages/chapter5/section5.6.md)
