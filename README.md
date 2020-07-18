@@ -37,3 +37,12 @@
     - [Section 5.4: Attaching events and manipulating the DOM inside ready()](book_pages/chapter5/section5.4.md)
     - [Section 5.5: Dierence between $(document).ready() and $(window).load()](book_pages/chapter5/section5.5.md)
     - [Section 5.6: Dierence between jQuery(fn) and executingyour code before </body>](book_pages/chapter5/section5.6.md)
+
+* Chapter 6: Events
+
+    - [Section 6.1: Delegated Events](book_pages/chapter6/section6.1.md)
+    - [Section 6.2: Attach and Detach Event Handlers](book_pages/chapter6/section6.2.md)
+    - [Section 6.3: Switching specific events on and off via jQuery. (Named Listeners)](book_pages/chapter6/section6.3.md)
+    - [Section 6.4: originalEvent](book_pages/chapter6/section6.4.md)
+    - [Section 6.5: Events for repeating elements without using ID's](book_pages/chapter6/section6.5.md)
+    - [Section 6.6: Document Loading Event .load()](book_pages/chapter6/section6.6.md)
